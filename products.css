@@ -282,9 +282,9 @@ h1 {
 }
 .box-btn {
   display: flex;
-  width: 30%;
+  width: 20%;
   justify-content: flex-end;
-  margin-right: 4%;
+  /* margin-right: 4%; */
 }
 .product-img {
   width: 15%;
@@ -363,8 +363,13 @@ h1 {
     width: 50%;
   }
   .box-btn {
-    width: 100%;
+    width: 55%;
     justify-content: center;
+  }
+  #productfont{
+    display: flex;
+    justify-content: center;
+    width: 100%;
   }
 }
 /* products code ends  */
